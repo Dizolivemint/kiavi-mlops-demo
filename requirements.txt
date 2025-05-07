@@ -1,0 +1,6 @@
+pyspark
+mlflow
+scikit-learn
+pandas
+airflow
+duckdb
