@@ -2,5 +2,5 @@ pyspark
 mlflow
 scikit-learn
 pandas
-airflow
+apache-airflow==2.8.1
 duckdb

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/flyin/github/kiavi-mlops-demo/mlruns/0/9e5a5c75a5664ec1abbeba91b9367249/artifacts
+end_time: 1746591396600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e5a5c75a5664ec1abbeba91b9367249
+run_name: indecisive-carp-184
+run_uuid: 9e5a5c75a5664ec1abbeba91b9367249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746591391662
+status: 3
+tags: []
+user_id: flyin
